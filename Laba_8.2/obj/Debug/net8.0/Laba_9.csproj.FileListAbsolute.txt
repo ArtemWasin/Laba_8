@@ -1,0 +1,14 @@
+C:\Users\Ardor\source\repos\Laba_8.2\bin\Debug\net8.0\Laba_9.exe
+C:\Users\Ardor\source\repos\Laba_8.2\bin\Debug\net8.0\Laba_9.deps.json
+C:\Users\Ardor\source\repos\Laba_8.2\bin\Debug\net8.0\Laba_9.runtimeconfig.json
+C:\Users\Ardor\source\repos\Laba_8.2\bin\Debug\net8.0\Laba_9.dll
+C:\Users\Ardor\source\repos\Laba_8.2\bin\Debug\net8.0\Laba_9.pdb
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.AssemblyInfoInputs.cache
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.AssemblyInfo.cs
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.csproj.CoreCompileInputs.cache
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.dll
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\refint\Laba_9.dll
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.pdb
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\Laba_9.genruntimeconfig.cache
+C:\Users\Ardor\source\repos\Laba_8.2\obj\Debug\net8.0\ref\Laba_9.dll
